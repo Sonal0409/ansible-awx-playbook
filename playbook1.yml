@@ -4,4 +4,4 @@
   - name: task1
     ping:
   - name: task2
-    command: hostname -s
+    command: echo "Hello"
